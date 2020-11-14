@@ -1,22 +1,24 @@
 {
-    "name": “StableXSwap,
-    "website": "https://stablexswap.com”,
-    "source_code": "https://github.com/stablexlabs”,
-    "short_description": “StableXSwap is the first stablecoin-focused AMM decentralized exchange on Binance Smart Chain. Featuring lower fees, trading fee discounts, and staking rewards to STAX holders, the project incentivizes liquidity providers and traders alike to continue to participate within the StableXSwap ecosystem and hold STAX.,
+    "name": "StableXSwap",
+    "website": "https://stablexswap.com",
+    "source_code": "https://github.com/stablexlabs",
+    "short_description": "StableXSwap is the first stablecoin-focused AMM decentralized exchange on Binance Smart Chain. Featuring lower fees, trading fee discounts, and staking rewards to STAX holders, the project incentivizes liquidity providers and traders alike to continue to participate within the StableXSwap ecosystem and hold STAX.",
     "explorer": "https://bscscan.com/token/0x0Da6Ed8B13214Ff28e9Ca979Dd37439e8a88F6c4",
     "research": "",
     "socials": [
         {
+            "name": "Medium",
+            "url": "https://medium.com/stablexswap"
+        },
+        {
             "name": "Twitter",
             "url": "https://twitter.com/stablexswap”
-        },       
-        {
-            "name": "Medium",
-            "url": "https://medium.com/stablexswap”
         },
         {
             "name": "Telegram",
             "url": "https://t.me/stablexswapofficial”
         }
-    ],
+   
+   
+    ]
 }
