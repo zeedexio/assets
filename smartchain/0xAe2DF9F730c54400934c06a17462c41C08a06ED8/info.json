@@ -1,6 +1,29 @@
 {
-    "name": "Dogebonk",
-    "website": "http://dogebonk.com",
-    "short_description": "DogeBonk is on a journey to bonk the crypto clown world: from soulless meme coins with random name combinations, rug pulls and cash grabs, to useless coins with recycled NFTs - DogeBonk is showing what meme coins should be all about: funny memes.",
-    "explorer": "https://bscscan.com/token/0xae2df9f730c54400934c06a17462c41c08a06ed8",
+  "name": "Dogebonk",
+  "website": "http://dogebonk.com",
+  "short_description": "DogeBonk is on a journey to bonk the crypto clown world: from soulless meme coins with random name combinations, rug pulls and cash grabs, to useless coins with recycled NFTs - DogeBonk is showing what meme coins should be all about: funny memes.",
+  "explorer": "https://bscscan.com/token/0xae2df9f730c54400934c06a17462c41c08a06ed8",
+  "research": "",
+  "socials": [
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/dogebonk_token"
+    },
+    {
+      "name": "Docs",
+      "url": "https://docs.dogebonk.com/"
+    },
+    {
+      "name": "Reddit",
+      "url": "https://www.reddit.com/r/DogeBONK"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://t.me/dogebonk_community"
+    },
+    {
+      "name": "Discord",
+      "url": "https://discord.gg/Xq2NMGp7Rt"
+    }
+  ]
 }
