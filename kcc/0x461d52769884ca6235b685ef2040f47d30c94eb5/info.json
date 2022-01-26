@@ -1,0 +1,30 @@
+{
+  "name": "Zeedex",
+  "website": "https://zeedex.io",
+  "source_code": "https://github.com/zeedexio",
+  "short_description": "Zeedex is Gasless, Non-Custodial Decentralized Exchange.",
+  "explorer": "https://bscscan.com/token/0xa8b474f3cb2261258931ccfb3ef89865c96dee38",
+  "research": "",
+  "socials": [
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/zeedexio"
+    },
+    {
+      "name": "Medium",
+      "url": "https://medium.com/zeedex"
+    },
+    {
+      "name": "Docs",
+      "url": "https://docs.zeedex.io/"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://t.me/zeedexio"
+    },
+    {
+      "name": "Discord",
+      "url": "https://discord.gg/WXfT7zNhgD"
+    }
+  ]
+}
