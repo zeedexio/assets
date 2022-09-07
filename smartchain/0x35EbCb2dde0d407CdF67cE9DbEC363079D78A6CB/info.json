@@ -1,0 +1,11 @@
+{
+  "name": "ERODES",
+  "website": "https://Www.Erodes.Org",
+  "description": "",
+  "explorer": "https://bscscan.com/token/0x35EbCb2dde0d407CdF67cE9DbEC363079D78A6CB",
+  "type": "BEP20",
+  "symbol": "ERODE",
+  "decimals": 9,
+  "status": "active",
+  "id": "0x35EbCb2dde0d407CdF67cE9DbEC363079D78A6CB"
+}
