@@ -1,0 +1,17 @@
+{
+  "name": "Arcoswap",
+  "website": "https://arcoswap.io/",
+  "short_description": "$Arco is an Earning Rewards Token on Brise Chain.",
+  "explorer": "https://scanbrc.com/token/0xbfa6394b9898566652276f1Fb40d65e75787D66f/token-transfers",
+  "research": "",
+  "socials": [
+    {
+      "name": "Twitter",
+      "url": "https://mobile.twitter.com/arcoswap"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://t.me/Arcoswap"
+    }
+  ]
+}
